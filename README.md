@@ -10,3 +10,8 @@ modelo entidad relacion
 
 diagrama de casos de uso
 <img width="518" height="456" alt="Captura de pantalla_20260924_111222" src="https://github.com/user-attachments/assets/228f963d-a27e-4f3a-90c8-7f7bbb421151" />
+
+
+
+Diagrama de flujo: 
+<img width="1380" height="822" alt="Captura de pantalla 2026-09-24 115444" src="https://github.com/user-attachments/assets/059e62a0-53ec-46da-9b53-853725af1d84" />
