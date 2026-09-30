@@ -12,7 +12,8 @@ modelo entidad relacion
 
 
 diagrama de casos de uso
-<img width="1842" height="436" alt="Captura de pantalla 2026-09-29 201334" src="https://github.com/user-attachments/assets/433d17a7-3b78-46da-a001-2cf4be2df745" />
+<img width="841" height="915" alt="Captura de pantalla 2026-09-30 155839" src="https://github.com/user-attachments/assets/c9d047c7-dd46-4c5a-a759-5bf30fd44d8c" />
+
 
 
 
