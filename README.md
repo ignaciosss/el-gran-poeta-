@@ -2,7 +2,8 @@
 integrantes: Fernando Sepúlveda, benjamín muñoz,  Ignacio seguel y nicolas soldini
 
 modelo de clases
-<img width="1097" height="745" alt="Captura de pantalla 2026-09-21 212231" src="https://github.com/user-attachments/assets/1b9c2570-b609-4f9d-a103-edc447e9c902" />
+<img width="923" height="467" alt="Captura de pantalla 2026-09-30 154608" src="https://github.com/user-attachments/assets/51bcec15-a484-40f0-8f9f-199515760d6e" />
+
 
 
 modelo entidad relacion
