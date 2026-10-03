@@ -20,3 +20,11 @@ diagrama de casos de uso
 
 Diagrama de flujo: 
 <img width="1380" height="822" alt="Captura de pantalla 2026-09-24 115444" src="https://github.com/user-attachments/assets/059e62a0-53ec-46da-9b53-853725af1d84" />
+
+
+
+
+
+diagrama de base de datos
+<img width="1433" height="822" alt="Captura de pantalla 2026-09-30 164850" src="https://github.com/user-attachments/assets/faec6ce6-f3c7-401c-b9a0-2fc4f6a90c2e" />
+
