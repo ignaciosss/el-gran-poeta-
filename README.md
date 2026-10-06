@@ -26,5 +26,5 @@ Diagrama de flujo:
 
 
 diagrama de base de datos
-<img width="1433" height="822" alt="Captura de pantalla 2026-09-30 164850" src="https://github.com/user-attachments/assets/faec6ce6-f3c7-401c-b9a0-2fc4f6a90c2e" />
+<img width="1497" height="782" alt="Captura de pantalla 2026-10-06 203937" src="https://github.com/user-attachments/assets/59a7e876-44ef-45fc-aea5-02249613fa72" />
 
